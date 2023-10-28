@@ -1,4 +1,8 @@
-[<img src="https://cloud.githubusercontent.com/assets/29597/11737732/0ca1e55e-9f91-11e5-97f3-098f2f8ed866.png" alt="React virtualized" data-canonical-src="https://cloud.githubusercontent.com/assets/29597/11737732/0ca1e55e-9f91-11e5-97f3-098f2f8ed866.png" width="330" height="100" />](http://bvaughn.github.io/react-virtualized/)
+## Fixed version of [react-virtualized](http://bvaughn.github.io/react-virtualized/)
+Fixes https://github.com/bvaughn/react-virtualized/issues/1632 which breaks dev-build with
+vite/ts/react.
+
+## Original Readme:
 
 React components for efficiently rendering large lists and tabular data.
 Check out [the demo](https://bvaughn.github.io/react-virtualized/) for some examples.
